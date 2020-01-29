@@ -1,7 +1,7 @@
 server.port: 8081
 spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation: true
 
-example.property: "VLADIMIR IN THE DEFAULT"
+example.property: "VLADIMIR 2 IN THE DEFAULT"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
